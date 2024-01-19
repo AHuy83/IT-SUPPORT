@@ -5,3 +5,5 @@
 <h2>How to fix the Windows 0x0000007c network printing error</h2>
 Trên client (Khách):
    <b>Windows 10 2004, 20H2, 21H1 and 21H2:  <a href="https://drive.usercontent.google.com/download?id=1pIuOJGQ6HjOhV6YWFxhxQImcCifpfJ_p&export=download" target="blank">Tải về</a></b>
+   <b>Windows 10 1909:  <a href="https://drive.usercontent.google.com/download?id=1TsKoLDp53PSDxcGnPQzpzz2OBCCiclT8&export=download" target="blank">Tải về</a></b>
+   <b>Windows 10 1809 and Windows Server 2019:  <a href="https://drive.usercontent.google.com/download?id=1pIuOJGQ6HjOhV6YWFxhxQImcCifpfJ_p&export=download" target="blank">Tải về</a></b>
