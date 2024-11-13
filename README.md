@@ -7,3 +7,6 @@ Trên client (Khách):</br>
    <b>Windows 10 2004, 20H2, 21H1 and 21H2:  <a href="https://drive.usercontent.google.com/download?id=1pIuOJGQ6HjOhV6YWFxhxQImcCifpfJ_p&export=download" target="blank">Tải về</a></b></br>
    <b>Windows 10 1909:  <a href="https://drive.usercontent.google.com/download?id=1TsKoLDp53PSDxcGnPQzpzz2OBCCiclT8&export=download" target="blank">Tải về</a></b></br>
    <b>Windows 10 1809 and Windows Server 2019:  <a href="https://drive.usercontent.google.com/download?id=1bAUJjAXpZWyKasvfrJzvtAQ3JrcNHQRi&export=download" target="blank">Tải về</a></b></br>
+
+
+<h1>Lỗi "INACCESSIBLE BOOT DEVICE", Cài đặt Driver Intel RST</h1>
