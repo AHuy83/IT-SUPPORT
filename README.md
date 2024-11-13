@@ -14,10 +14,11 @@ Trên client (Khách):</br>
 <h1>2. Xem nhanh Serial máy tính</h1>
 Cách xem Serial Number của một máy tính chạy windows như sau:</br>
 Mở CMD (không cần quyền admin vẫn được), xả lệnh sau vào: </br>
-powershell -command "Get-WmiObject win32_bios | select Serialnumber </br>
-. Lệnh này dùng mọi win có hỗ trợ powershell.</br>
-Mở Powershell xả lệnh sau vào: </br>
-Get-WmiObject win32_bios | select Serialnumber </br>
-Lệnh này dùng mọi win có hỗ trợ powershell </br>
-Hoặc xả lệnh sau vào CMD: </br>
-wmic bios get serialnumber. Tuy nhiên lệnh này chỉ dùng được win7-8-10 mà không dùng được trên win11 vì microsoft đã bỏ wmic khỏi win11.
+<h2>powershell -command "Get-WmiObject win32_bios | select Serialnumber </h2> </br>
+- Lệnh này dùng mọi win có hỗ trợ powershell.</br>
+- Mở Powershell xả lệnh sau vào: </br>
+<h2>Get-WmiObject win32_bios | select Serialnumber</h2> </br>
+- Lệnh này dùng mọi win có hỗ trợ powershell </br>
+- Hoặc xả lệnh sau vào CMD: </br>
+<h2>wmic bios get serialnumber</h2></br>
+<i>Tuy nhiên lệnh này chỉ dùng được win7-8-10 mà không dùng được trên win11 vì microsoft đã bỏ wmic khỏi win11.</i>
